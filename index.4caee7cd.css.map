@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA;;;;AAGA","sources":["l/style.css"],"sourcesContent":["body{\n  margin: 0;\n  height: 23000px;\n  background-color: black;\n}\n\n#wrap{\n  position:relative;\n}\nsvg{\n  position:relative;\n  width: 600px;\n  overflow: visible;\n  margin-top: 0;\n}"],"names":[],"version":3,"file":"index.4caee7cd.css.map","sourceRoot":"/__parcel_source_root/"}
